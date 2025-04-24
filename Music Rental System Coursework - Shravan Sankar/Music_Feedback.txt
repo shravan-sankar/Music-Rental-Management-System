@@ -1,0 +1,28 @@
+MusicID,Rating,Comments
+DR001,4,nice
+SZ402,4,amazing
+GU208,2,not good
+GN975,2,terrible
+GU205,2,atrocious
+KL305,5,amazing
+FU076,2,
+FU318,2,
+DR236,5,would recommend
+KL301,5,love it
+SZ402,2,
+KL301,4,
+BE108,3,musical
+TS005,5,
+FU197,1,never again
+DR019,2,
+DR007,2,
+DR236,5,wonderful
+JW604,3,nice
+DR001,5,yes
+GU204,2,
+DR001,5,bangs
+SZ406,1,no
+SZ407,1,
+BE101,4,good
+DR210,5,elegant
+BE110,2,not great

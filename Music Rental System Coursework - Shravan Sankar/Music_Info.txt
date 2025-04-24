@@ -1,0 +1,70 @@
+RecordID|Artist|Title|Medium|Genre|PurchaseDate|Availability
+DR001|Drake|God's Plan|CD|Hip Hop|2024-12-11|Unavailable
+DR019|Drake|Hotline Bling|Vinyl|Pop|2024-12-11|Unavailable
+DR007|Drake|One Dance|Tape|Dancehall|N/A|Available
+DR210|Drake|In My Feelings|CD|Hip Hop|2024-12-11|Unavailable
+DR236|Drake|Laugh Now Cry Later|Vinyl|Rap|2024-12-11|Unavailable
+TS005|Travis Scott|SICKO MODE|CD|Hip Hop|N/A|Available
+TS054|Travis Scott|Stargazing|Vinyl|Trap|N/A|Available
+TS483|Travis Scott|Goosebumps|Tape|Rap|N/A|Available
+TS694|Travis Scott|Highest in the Room|CD|Hip Hop|N/A|Available
+TS204|Travis Scott|Butterfly Effect|Vinyl|Trap|N/A|Available
+JW268|Juice WRLD|Lucid Dreams|Tape|Rap|2024-12-10|Unavailable
+JW394|Juice WRLD|All Girls Are the Same|CD|Hip Hop|2024-12-10|Unavailable
+JW749|Juice WRLD|Robbery|Vinyl|Rap|N/A|Available
+JW604|Juice WRLD|Wishing Well|CD|Rap|2024-12-10|Unavailable
+JW385|Juice WRLD|Righteous|Vinyl|Hip Hop|2024-12-11|Unavailable
+FU197|Future|Mask Off|Tape|Hip Hop|2024-12-11|Unavailable
+FU216|Future|Life Is Good|CD|Rap|N/A|Available
+FU318|Future|March Madness|Vinyl|Trap|2024-12-10|Unavailable
+FU076|Future|Fine China|CD|Hip Hop|N/A|Available
+GN975|Giveon|Heartbreak Anniversary|Vinyl|R&B|N/A|Available
+BE101|Beethoven|Symphony No. 5|Vinyl|Classical|N/A|Available
+BE102|Beethoven|Symphony No. 9|CD|Classical|N/A|Available
+BE103|Beethoven|Fur Elise|Tape|Classical|N/A|Available
+BE104|Beethoven|Moonlight Sonata|Vinyl|Classical|N/A|Available
+BE105|Beethoven|Symphony No. 7|CD|Classical|N/A|Available
+BE106|Beethoven|Für Elise|Tape|Classical|2024-12-11|Unavailable
+BE107|Beethoven|Piano Sonata No. 8|Vinyl|Classical|2024-12-11|Unavailable
+BE108|Beethoven|Piano Sonata No. 14|CD|Classical|2024-12-11|Unavailable
+BE109|Beethoven|String Quartet No. 13|Tape|Classical|2024-12-11|Unavailable
+BE110|Beethoven|Piano Sonata No. 23|Vinyl|Classical|2024-12-11|Unavailable
+GU201|Gunna|Drip or Drown 2|CD|Hip Hop|2024-12-11|Unavailable
+GU202|Gunna|Wunna|Vinyl|Rap|2024-12-11|Unavailable
+GU203|Gunna|Drip Too Hard|Tape|Hip Hop|2024-12-11|Unavailable
+GU204|Gunna|YSL|CD|Rap|2024-12-11|Unavailable
+GU205|Gunna|Lil Baby & Gunna|Vinyl|Hip Hop|2024-12-11|Unavailable
+GU206|Gunna|The Free Wish|Tape|Trap|2024-12-11|Unavailable
+GU207|Gunna|King’s Ransom|CD|Rap|2024-12-11|Unavailable
+GU208|Gunna|Endless|Vinyl|Hip Hop|2024-12-11|Unavailable
+GU209|Gunna|Future 6|Tape|Rap|2024-12-11|Unavailable
+GU210|Gunna|Runnin’ Up|CD|Trap|2024-12-11|Unavailable
+KL301|Kendrick Lamar|HUMBLE.|Vinyl|Hip Hop|N/A|Available
+KL302|Kendrick Lamar|DNA.|Tape|Rap|2024-12-11|Unavailable
+KL303|Kendrick Lamar|Alright|CD|Rap|2024-12-11|Unavailable
+KL304|Kendrick Lamar|King Kunta|Vinyl|Hip Hop|N/A|Available
+KL305|Kendrick Lamar|Swimming Pools (Drank)|Tape|Rap|N/A|Available
+KL307|Kendrick Lamar|Money Trees|Vinyl|Rap|2024-12-11|Unavailable
+KL308|Kendrick Lamar|The Blacker the Berry|Tape|Hip Hop|2024-12-11|Unavailable
+KL309|Kendrick Lamar|Backseat Freestyle|CD|Rap|N/A|Available
+KL310|Kendrick Lamar|M.A.A.D City|Vinyl|Hip Hop|2024-12-11|Unavailable
+SZ401|SZA|Good Days|CD|R&B|2024-12-11|Unavailable
+SZ402|SZA|I Hate U|Vinyl|R&B|2024-12-11|Unavailable
+SZ403|SZA|Kill Bill|Tape|R&B|2024-12-11|Unavailable
+SZ404|SZA|The Weekend|CD|R&B|2024-12-11|Unavailable
+SZ405|SZA|Love Language|Vinyl|R&B|2024-12-11|Unavailable
+SZ406|SZA|Garden (Say It Like Dat)|Tape|R&B|2024-12-11|Unavailable
+SZ407|SZA|Supermodel|CD|R&B|N/A|Available
+SZ408|SZA|Broken Clocks|Vinyl|R&B|2024-12-11|Unavailable
+SZ409|SZA|Drew Barrymore|Tape|R&B|2024-12-11|Unavailable
+SZ410|SZA|Normal Girl|CD|R&B|N/A|Available
+FM601|Fleetwood Mac|Go Your Own Way|CD|Rock|2024-12-11|Unavailable
+FM602|Fleetwood Mac|Dreams|Vinyl|Rock|2024-12-11|Unavailable
+FM603|Fleetwood Mac|Rhiannon|Tape|Rock|2024-12-11|Unavailable
+FM604|Fleetwood Mac|Landslide|CD|Rock|2024-12-11|Unavailable
+FM605|Fleetwood Mac|The Chain|Vinyl|Rock|2024-12-11|Unavailable
+FM606|Fleetwood Mac|Gold Dust Woman|Tape|Rock|N/A|Available
+FM607|Fleetwood Mac|Tusk|CD|Rock|N/A|Available
+FM608|Fleetwood Mac|Little Lies|Vinyl|Pop Rock|2024-12-11|Unavailable
+FM609|Fleetwood Mac|Don't Stop|Tape|Rock|N/A|Available
+FM610|Fleetwood Mac|Sara|CD|Rock|2024-12-11|Unavailable
